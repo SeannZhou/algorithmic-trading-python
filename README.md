@@ -2,6 +2,18 @@
 
 This repository
 
+## Packages to import
+1. numpy
+2. pandas
+3. requests
+4. xlsxwriter
+
+## Dependencies
+- need to setup a secrets file locally to include api keys
+- also need list of equities to search with
+
+
+
 ## Course Outline
 
 * Section 1: Algorithmic Trading Fundamentals
